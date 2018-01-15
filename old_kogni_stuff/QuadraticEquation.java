@@ -19,9 +19,9 @@ public class QuadraticEquation {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        //TODO parameter scanner
-        int parameterA = 0, parameterB = 0, parameterC = 0;
+        int parameterA = 0;
+        int parameterB = 0;
+        int parameterC = 0;
         
         
 
